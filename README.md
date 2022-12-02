@@ -1,1 +1,1 @@
-# otus_homework_01
+# OTUS. C++. Home work 1.
