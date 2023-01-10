@@ -69,6 +69,8 @@ target_link_libraries(
   helloworld
 )
 
+add_test(test_version test_version)
+
 
 
 # if (MSVC)
